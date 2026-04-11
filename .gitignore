@@ -1,0 +1,44 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.exe
+*.dll
+*.pdb
+*.mdb
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Rider / JetBrains
+.idea/
+
+# MonoGame specific
+Content/bin/
+Content/obj/
+*.mgcb
+*.mgcb.tmp
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Others
+*.swp
+*.bak
+*.tmp
